@@ -1,0 +1,74 @@
+{
+  "cards": [
+    {
+      "title": "Internship stuff",
+      "content": "this is cold night",
+      "color": "#EDD",
+      "id": 1
+    },
+    {
+      "title": "Internship stuff",
+      "content": "morning stuff",
+      "color": "#CED",
+      "id": 2
+    },
+    {
+      "title": "Internship stuff",
+      "content": "my all night",
+      "color": "#EAA",
+      "id": 3
+    },
+    {
+      "title": "Internship stuff",
+      "content": "nightmares",
+      "color": "#DEE",
+      "id": 4
+    },
+    {
+      "title": "Internship stuff",
+      "content": "yoghurt on my table",
+      "color": "#ACA",
+      "id": 5
+    },
+    {
+      "title": "Internship stuff",
+      "content": "Every Single Night",
+      "color": "#BBE",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "john cena",
+      "color": "#cd91f7",
+      "imageURL": "https://pbs.twimg.com/profile_images/687348710032957440/TEp6n0JN_400x400.png",
+      "added": true,
+      "selected": false
+    },
+    {
+      "id": "2",
+      "name": "taylor swift",
+      "imageURL": "https://pbs.twimg.com/profile_images/713141309733646336/Yi8SGSW9_400x400.jpg",
+      "added": false,
+      "color": "#3068a6",
+      "selected": false
+    },
+    {
+      "id": "3",
+      "name": "emma watson",
+      "imageURL": "https://pbs.twimg.com/profile_images/588391447688192001/n87QmCZW_400x400.jpg",
+      "added": false,
+      "color": "red",
+      "selected": false
+    },
+    {
+      "id": "4",
+      "name": "charlie puth",
+      "imageURL": "https://c-sf.smule.com/sf/s32/sing/performance/cover/25/19/89da06e3-7c4c-49c7-9b4c-c775034efdb8.jpg",
+      "added": true,
+      "color": "#DEDED",
+      "selected": false
+    }
+  ]
+}
